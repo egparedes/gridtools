@@ -31,6 +31,7 @@ __pycache__
 !examples
 !include
 !jenkins
+!pip_package
 !pyutils
 !python
 !src
